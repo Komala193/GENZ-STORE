@@ -1,0 +1,6 @@
+{
+  "name": "GENZ Fashion Store",
+  "description": "An immersive, digital lifestyle-based shopping hub featuring AI recommendations, smart-search, trend hubs, and modern glassmorphic visual aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
